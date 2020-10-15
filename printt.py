@@ -1,1 +1,5 @@
-print("123123123")
+import time
+
+while True:
+    print("123123123")
+    time.sleep(2)
