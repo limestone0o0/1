@@ -1,4 +1,6 @@
+while :
+do
+        uname -a
+done
 
-cat /etc/issue
-uname -a
 
